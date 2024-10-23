@@ -8,7 +8,7 @@ public class Hello{
         double x,y,z
     }
 }
-
+aa
 
 ターミナル
 git config --global user.name 'kawahara'
